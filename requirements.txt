@@ -82,7 +82,7 @@ langchain-groq==0.1.9
 langchain-openai==0.1.23
 langchain-text-splitters==1.1.2
 langcodes==3.4.0
-langsmith==0.8.0
+langsmith==0.8.18
 language_data==1.2.0
 llama-cloud==0.0.17
 llama-index==0.13.0
